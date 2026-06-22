@@ -38,9 +38,9 @@ Backend Engineer & Full-Stack Web Developer based in Egypt. I specialize in buil
 ### 📊 GitHub Dynamics & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=mena-emad&langs_count=4&layout=compact&theme=radial&hide=html,css" alt="Mena's Top Langs" width="45%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=mena-emad&langs_count=4&layout=compact&theme=radial&hide=html,css" alt="Mena's Top Langs" width="45%" />
   
-  <img src="https://github-readme-stats-eight.vercel.app/api?username=mena-emad&show_icons=true&theme=radial&rank_icon=github" alt="Mena's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=mena-emad&show_icons=true&theme=radial&rank_icon=github" alt="Mena's GitHub Stats" width="48%" />
 </p>
 
 ---
