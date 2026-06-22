@@ -68,11 +68,13 @@ Building scalable, secure, and high-performance web applications.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mena-emad&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mena-emad&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mena-emad&theme=github_dark" />
 
 </div>
 
