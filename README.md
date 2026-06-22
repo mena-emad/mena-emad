@@ -16,7 +16,7 @@ Building scalable, secure, and high-performance web applications.
 - 🚀 Backend Engineer focused on scalable APIs, clean architecture, and secure web applications.
 - 💡 Passionate about System Design, Database Optimization, Cybersecurity, and Software Engineering.
 - 🏗️ Currently building **Scripto** — a Multi-Vendor E-Commerce Platform.
-- ⚡ Active in Competitive Programming (ICPC) and continuously improving problem-solving skills.
+- ⚡ Active in Competitive Programming (ICPC).
 - 🌱 Currently learning advanced backend development, cloud technologies, and AI integration.
 
 ---
@@ -25,26 +25,27 @@ Building scalable, secure, and high-performance web applications.
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,cs" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular" />
+</p>
 
 ### Databases & Tools
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,postman,vscode" />
+</p>
 
 ---
 
@@ -52,9 +53,9 @@ Building scalable, secure, and high-performance web applications.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mena-emad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mena-emad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mena-emad&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mena-emad&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -62,7 +63,7 @@ Building scalable, secure, and high-performance web applications.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mena-emad&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=mena-emad&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -72,7 +73,7 @@ Building scalable, secure, and high-performance web applications.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mena-emad&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=mena-emad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
@@ -90,16 +91,24 @@ Building scalable, secure, and high-performance web applications.
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: https://menaemad.netlify.app
-- 🐙 GitHub: https://github.com/mena-emad
+<p align="left">
+  <a href="https://menaemad.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mena-emad" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### 💭 Quote
+### 💭 Favorite Quote
 
-*"Clean code always looks like it was written by someone who cares."*  
+*"Clean code always looks like it was written by someone who cares."*
+
 — Michael Feathers
 
 </div>
