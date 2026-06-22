@@ -90,6 +90,15 @@ Building scalable, secure, and high-performance web applications.
 
 ---
 
+## 📊 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mena-emad&theme=github_dark" />
+
+</div>
+
+---
 ## 🌐 Connect With Me
 
 - 💼 Portfolio: https://menaemad.netlify.app
