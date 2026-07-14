@@ -102,7 +102,7 @@ Building scalable, secure, and high-performance web applications.
 
 ## 🌐 Connect With Me
 
-- 💼 Portfolio: https://menaemad.netlify.app
+- 💼 Portfolio: https://menaemad.vercel.app
 - 🐙 GitHub: https://github.com/mena-emad
 
 ---
