@@ -6,7 +6,7 @@
 
 Building scalable, secure, and high-performance web applications.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Engineer;Full-Stack+Web+Developer;Node.js+%7C+Express.js+%7C+.NET;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Engineer;Full-Stack+Web+Developer;Node.js+%7C+Express.js+%7C+.NET;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -28,25 +28,25 @@ Building scalable, secure, and high-performance web applications.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,nestjs" />
 </p>
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,postman,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,postman,vscode,docker" />
 </p>
 
 ---
@@ -55,9 +55,9 @@ Building scalable, secure, and high-performance web applications.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mena-emad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mena-emad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mena-emad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mena-emad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -71,31 +71,54 @@ Building scalable, secure, and high-performance web applications.
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mena-emad&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mena-emad&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Top Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mena-emad&theme=tokyo-night&hide_border=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=mena-emad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Summary
+## 📊 Profile Details
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mena-emad&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mena-emad/mena-emad/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mena-emad/mena-emad/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake"
+    src="https://raw.githubusercontent.com/mena-emad/mena-emad/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
