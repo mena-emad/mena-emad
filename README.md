@@ -27,25 +27,25 @@ Building scalable, secure, and high-performance web applications.
 
 ### 💻 Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cs,cpp,python" />
 </p>
 
 ### ⚙️ Backend & Frameworks
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,nestjs" />
 </p>
 
 ### 🎨 Frontend
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,postman,vscode,docker" />
 </p>
 
@@ -55,47 +55,17 @@ Building scalable, secure, and high-performance web applications.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=mena-emad&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mena-emad&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mena-emad&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mena-emad&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mena-emad&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 Top Contributions
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=mena-emad&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-## 📊 Profile Details
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mena-emad&theme=tokyonight" />
 
 </div>
 
@@ -121,6 +91,17 @@ Building scalable, secure, and high-performance web applications.
 </picture>
 
 </div>
+
+---
+
+## 🚀 Current Focus
+
+```text
+📚 Learning Advanced Backend Development
+☁️ Exploring Cloud & DevOps
+🤖 Integrating AI into Web Applications
+🏗️ Building Scalable Systems
+```
 
 ---
 
@@ -159,4 +140,3 @@ Building scalable, secure, and high-performance web applications.
 ![](https://komarev.com/ghpvc/?username=mena-emad&style=for-the-badge&color=blue)
 
 </div>
-
