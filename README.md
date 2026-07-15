@@ -1,4 +1,3 @@
-```md
 # <div align="center">Hi there, I'm Mena Emad Sawiris 👋</div>
 
 <div align="center">
@@ -137,4 +136,4 @@ Building scalable, secure, and high-performance web applications.
 ![](https://komarev.com/ghpvc/?username=mena-emad&style=for-the-badge&color=blue)
 
 </div>
-```
+
